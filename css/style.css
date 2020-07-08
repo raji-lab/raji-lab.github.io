@@ -53,12 +53,12 @@ button {
   outline: medium none;
 }
 
-h1, h3, h4{
+h1, h3, h4, h6{
   font-family: "Roboto", sans-serif;
   color: #000000;
 }
 
-h2, h6, h5{
+h2, h5{
   font-family: "Roboto", sans-serif;
   color: #fff; 
 }
@@ -570,7 +570,7 @@ h2 {
 
 @media screen and (max-width: 500px){
   h2 {
-    font-size: 20px;
+    font-size: 24px;
   }
 }
 
@@ -591,7 +591,7 @@ h5 {
 
 
 h6 {
-  font-size: 14px;
+  font-size: 23px;
 }
 
 

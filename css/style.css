@@ -390,7 +390,7 @@ p {
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
-    background: #222;
+    background: #1176E7;
   }
 }
 
@@ -424,7 +424,7 @@ p {
   .pageTitle_area {
     background-size: cover;
     background-position: center center;
-    padding: 28% 0 43px 0;
+    padding: 34% 0 43px 0;
     background-repeat: no-repeat;
     position: relative;
     z-index: 0;

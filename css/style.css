@@ -477,6 +477,15 @@ p {
   padding-top: 60px;
 }
 
+@media screen and (max-width: 500px){
+  .content_area {
+    background: #fff;
+    padding-bottom: 90px;
+    padding-top: 60px;
+    padding-left: 10px;
+  }
+}
+
 .content_area.colord_bg {
   background: #fff;
 }
@@ -548,7 +557,7 @@ p {
   .content_products .content_wrap {
     margin-bottom: 60px;
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 20px;
   }
 }
 

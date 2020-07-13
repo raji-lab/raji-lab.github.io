@@ -390,7 +390,7 @@ p {
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
-    background: #1176E7;
+    background: #222;
   }
 }
 

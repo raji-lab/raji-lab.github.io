@@ -548,6 +548,10 @@ p {
   margin-bottom: 0;
 }
 
+.content_area a {
+  color: #1176E7;
+}
+
 
 .content_products {
   background: #fff;
@@ -648,7 +652,6 @@ h2 {
     font-size: 20px;
   }
 }
-
 
 h3 {
   font-size: 24px;

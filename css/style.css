@@ -70,6 +70,7 @@ h4 a,
 h5 a,
 h6 a {
   color: inherit;
+  font-size: inherit;
 }
 
 ul {
@@ -269,7 +270,22 @@ p {
   padding: 20px 20px;
 }
 
-.header-area .main-header-area a{
+.header-area .main-header-area h2 a {
+  float: none;
+  display: inline-block;
+  padding: 0;
+  color: #fff;
+  text-decoration: none;
+  font-size: inherit;
+  border-bottom: 3px solid transparent;
+}
+
+.header-area .main-header-area h2 a:hover {
+  border-bottom: 2px solid #fff;
+  width: 50%;
+}
+
+.header-area .main-header-area a {
   float: left;
   display: block;
   color: #fff;
@@ -280,7 +296,7 @@ p {
 }
 
 @media screen and (max-width: 500px){
-  .header-area .main-header-area a{
+  .header-area .main-header-area a {
     float: left;
     display: block;
     color: #fff;

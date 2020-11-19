@@ -156,7 +156,8 @@ p {
   cursor: pointer;
   padding: 45px 30px;
   margin-bottom: 30px;
-  width: 23em
+  width: 23em;
+  height: 9em;
 }
 
 .boxed-btn4 p {
@@ -305,6 +306,10 @@ p {
     font-size: 12px;
     border-bottom: 3px solid transparent;
   }
+}
+
+hr.lin{
+  border: 1px solid black;
 }
 
 .header-area .main-header-area a:hover{
